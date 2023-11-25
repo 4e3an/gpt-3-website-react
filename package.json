@@ -1,6 +1,6 @@
 {
   "name": "gpt-3",
-  "homepage": "https://4e3an.github.io/gpt-3-website-react/",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
